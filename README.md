@@ -1,0 +1,3 @@
+the SAT problem belongs to the Np-Complete class so All known algorithms for solving the SAT have an exponential execution time in the worst case,
+and are therefore unusable in practice even for instances of moderate size. 
+Intelligent tools such as heuristics (A*, Width, Depth) or meta-heuristics which are optimization algorithms whose role is to solve difficult optimization problems (PSO Algorithm, Genetic Algorithm, ASC Algorithm, etc.). In our case we will focus on the following meta heuristic algorithms: Genetic Algorithm, ASC Algorithm, PSO. Applies to two satisfiable data set instances: CNF (uf-20 and uf-75) Which contain respectively 20 variables and 75 variables. the implementation of this solution is done in java.
